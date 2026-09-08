@@ -31,3 +31,4 @@ cleaned_customers.to_csv(
 print("\nCleaned customer data created successfully.")
 print("Total records:", len(customers))
 print("Cleaned records:", len(cleaned))
+#test
