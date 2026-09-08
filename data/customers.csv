@@ -1,0 +1,10 @@
+customer_id,name,email,city
+C001,Ravi,ravi@gmail.com,Hyderabad
+C002,Priya,priya@gmail.com,Chennai
+,Arun,arun@gmail.com,Bangalore
+C003,Sneha,sneha@gmail.com,Hyderabad
+C002,Priya,ravi2@gmail.com,Chennai
+C004,Kiran,kiran@gmail.com,Mumbai
+,Meena,meena@gmail.com,Delhi
+C005,Anil,anil@gmail.com,Pune
+C003,Sneha,sneha2@gmail.com,Hyderabad
